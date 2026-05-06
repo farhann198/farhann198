@@ -1,6 +1,7 @@
 # Hi there, I'm Farhan Ahmad Ansari! 👋
 
-Computer Science student specializing in AI & Machine Learning with a strong interest in Machine Learning, Software Development, and Full-Stack Web Development. Passionate about building scalable applications, solving real-world problems, and continuously improving through hands-on learning and development.
+Computer Science student passionate about AI/ML, Full-Stack Web Development, Software Engineering, and scalable application development using Python, Java, JavaScript, and modern web technologies.
+
 
 ---
 
